@@ -1,0 +1,10 @@
+.clock{
+  text-align: center;
+  font-size: 50px;
+  margin-top: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellowgreen;
+}
+body{
+    background-color:black
+}
